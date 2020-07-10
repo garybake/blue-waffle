@@ -1,7 +1,7 @@
 # blue-waffle
 Source set of x type images to train a model and then find them for sale on ebay/fb  
 
-If we want listings of measuring rulers and not monarcy rulers. We can search ebay/fb
+If we want listings of "measuring rulers" and not "monarchy rulers". We can search ebay/fb
 for "rulers" and then use the trained model to discriminate and just show measuring rulers.
 
 Generate training data
