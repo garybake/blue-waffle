@@ -21,6 +21,10 @@ def download_images(pos_img, neg_img, limit=100, output_dir="image_data"):
     return paths
 
 
+def resize_image(im):
+    return im.resize((150, 150))
+
+
 def correct_image_types(paths):
     """Fix image types.
 
