@@ -1,5 +1,5 @@
 google-images-download @ git+https://github.com/Joeclinton1/google-images-download.git@620e7f54ea29631e5e7d8a2b82a16a40932bf42a
 Pillow==10.3.0
 selenium==3.141.0
-urllib3==1.26.18
+urllib3==1.26.19
 bing-image-downloader==1.0.4
